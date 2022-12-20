@@ -1,13 +1,13 @@
 # Python KT
 
-## Basic concepts (Common for most programming language)
+## Fundamentals (Common for most programming language)
 
-1. Data Types (int, string, float etc.)
+1. Data Types
 2. Variables
 3. Basic Operators
-4. Decision Making (if..else, do..while etc.)
-5. Loops (for, do..while)
-6. Arrays (List in Python)
+4. Decision Making
+5. Loops
+6. Arrays
 7. Strings
 8. Functions
 9. File I/O
