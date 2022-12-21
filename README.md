@@ -87,4 +87,6 @@ PyCharm is a full-fledged IDE which comes with almost everything common which ar
 
 Configure the virtual environment path in PyCharm which enables running scripts within the IDE.
 
+[How to configure Python Interpreter](https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.html)
+
 > NOTE: Avoid installing project specific packages globally.
