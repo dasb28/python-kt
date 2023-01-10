@@ -1,18 +1,5 @@
 # Python KT
 
-## Fundamentals (Common for most programming language)
-
-1. Data Types
-2. Variables
-3. Basic Operators
-4. Decision Making
-5. Loops
-6. Arrays
-7. Strings
-8. Functions
-9. File I/O
-10. OOPs concepts
-
 ## Python specific concepts
 
 1. Data structures - List, Dict, Tupple
@@ -30,38 +17,12 @@
 13. Logging
 14. Execution of shell script from Python vice versa.
 
-## Common built in libraries
+## Practice
 
-1. os
-2. sys
-3. shutil
-4. subprocess
-5. logging
-
-## Style guide for Python
-
-[PEP 8](https://peps.python.org/pep-0008/), standard is followed by open source communities.
-
-## TeamForge to GitHub migration
-
-In this project we have maintained PEP 8 standard.
-
-## Tools written during the project
-
-1. SVN type repository to Git repository by converting SVN features to Git features like trunk, tags, branches revisions.
-2. Git repository (which was present in TeamForge) to Git (GitHub).
-
-## New concepts in Migration project
-
-1. [Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/configuring-git-large-file-storage) for file size more than 50 MB
-2. Executing bash script from Python script.
-3. Components of SVN repository, how to convert those into Git components.
-
-## Libraries used in Migration project
-
-1. [requests](https://pypi.org/project/requests/)
-2. [GitPython](https://gitpython.readthedocs.io/en/stable/tutorial.html)
-3. [PyGithub](https://github.com/PyGithub/PyGithub)
+1. Create a Stack class and add methods to add, remove and find.
+2. If user tries to add more than 5 values in the Stack class, then raise a `ValueError`.
+3. Create a `data.csv` file with 5 rows with id column with alphanumeric values. Print the rows with generators.
+4. While parsing the above `data.csv` verify the id is alphanumeric only.
 
 ## Resources to learn 📚
 
