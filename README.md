@@ -13,55 +13,11 @@
 9. File I/O
 10. OOPs concepts
 
-## Python specific concepts
 
-1. Data structures - List, Dict, Tupple
-2. CRUD on data structures
-3. Looping techniques
-4. Error handling
-5. OOPs
-6. RegEx
-7. Custom modules/packaging
-8. Virtual environment
-9. Package management - pip
-10. Generators (For large file parsing)
-11. Run time argument
-12. Error handling
-13. Logging
-14. Execution of shell script from Python vice versa.
-
-## Common built in libraries
-
-1. os
-2. sys
-3. shutil
-4. subprocess
-5. logging
-
-## Style guide for Python
-
-[PEP 8](https://peps.python.org/pep-0008/), standard is followed by open source communities.
-
-## TeamForge to GitHub migration
-
-In this project we have maintained PEP 8 standard.
-
-## Tools written during the project
-
-1. SVN type repository to Git repository by converting SVN features to Git features like trunk, tags, branches revisions.
-2. Git repository (which was present in TeamForge) to Git (GitHub).
-
-## New concepts in Migration project
-
-1. [Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/configuring-git-large-file-storage) for file size more than 50 MB
-2. Executing bash script from Python script.
-3. Components of SVN repository, how to convert those into Git components.
-
-## Libraries used in Migration project
-
-1. [requests](https://pypi.org/project/requests/)
-2. [GitPython](https://gitpython.readthedocs.io/en/stable/tutorial.html)
-3. [PyGithub](https://github.com/PyGithub/PyGithub)
+## Practice
+1. Write a program which takes 3 number from user and print them in ASC.
+2. Write a program which takes 2 inputs as number, and print initial 10 numbers only.
+3. Write the output of the previous practice in a text file.
 
 ## Resources to learn 📚
 
