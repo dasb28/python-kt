@@ -5,19 +5,13 @@
 1. Data Types
 2. Variables
 3. Basic Operators
-4. Decision Making
+4. Decision-making
 5. Loops
-6. Arrays
-7. Strings
-8. Functions
-9. File I/O
-10. OOPs concepts
 
 
 ## Practice
-1. Write a program which takes 3 number from user and print them in ASC.
+1. Write a program which takes 3 number from user and print them in ASC. (Don't use any inbuilt method)
 2. Write a program which takes 2 inputs as number, and print initial 10 numbers only.
-3. Write the output of the previous practice in a text file.
 
 ## Resources to learn 📚
 
