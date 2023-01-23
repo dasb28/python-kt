@@ -20,8 +20,38 @@
 
 ## Practice
 
-1. Write a program which takes 3 number from user and print them in ASC. (Don't use any inbuilt method)
+1. Write a program which takes 3 number from user and print them in ascending order. (Don't use any inbuilt method)
+Ex.
+```python
+# input
+input1 = 2
+input2 = 1
+input3 = 7
+
+# Expected output
+# 1
+# 2
+# 7
+```
 2. Write a program which takes 2 inputs as number, and print initial 10 numbers only.
+```python
+
+# input
+input1 = 1
+input2 = 15
+
+# Expected output
+# 1
+# 2
+# 3
+# 4
+# 5
+# 6
+# 7
+# 8
+# 9
+# 10
+```
 
 ## Resources to learn 📚
 
