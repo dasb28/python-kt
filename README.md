@@ -3,7 +3,7 @@
 ### Fundamentals - 1 (Common for most programming language)
 
 1. What is Python?
-2. Application of Python
+2. Usage of Python
 3. Frameworks/libraries
 4. Where to write Python? (IDE/Editors)
 5. IDE/Editors in Pfizer
