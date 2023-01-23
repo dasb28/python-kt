@@ -20,10 +20,12 @@
 
 ## Practice
 
-1. Write a program which takes 3 number from user and print them in ascending order. (Don't use any inbuilt method)
-Ex.
+1. Write a program which takes 3 number from user and print them in ascending order. (Don't use any inbuilt method).
+
+Example
 ```python
 # input
+
 input1 = 2
 input2 = 1
 input3 = 7
@@ -34,9 +36,11 @@ input3 = 7
 # 7
 ```
 2. Write a program which takes 2 inputs as number, and print initial 10 numbers only.
-```python
 
+Example
+```python
 # input
+
 input1 = 1
 input2 = 15
 
