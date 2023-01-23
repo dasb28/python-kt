@@ -1,11 +1,15 @@
 # Python KT
 
-## Fundamentals (Common for most programming language)
+## Fundamentals - 1/2
 
 1. What is Python
 2. Usage of Python
-3. Frameworks and libraries
-4. Where to write Python? (IDE/Editors)
+   - ML
+   - Data science
+   - GUI
+   - Web Development
+3. Where to write Python? (IDE/Editors)
+4. Frameworks and libraries
 5. Installation and setup.
 6. Data Types
 7. Variables
@@ -15,6 +19,7 @@
 
 
 ## Practice
+
 1. Write a program which takes 3 number from user and print them in ASC. (Don't use any inbuilt method)
 2. Write a program which takes 2 inputs as number, and print initial 10 numbers only.
 
