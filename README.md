@@ -2,11 +2,16 @@
 
 ## Fundamentals (Common for most programming language)
 
-1. Data Types
-2. Variables
-3. Basic Operators
-4. Decision-making
-5. Loops
+1. What is Python
+2. Usage of Python
+3. Frameworks and libraries
+4. Where to write Python? (IDE/Editors)
+5. Installation and setup.
+6. Data Types
+7. Variables
+8. Basic Operators
+9. Decision-making
+10. Loops
 
 
 ## Practice
