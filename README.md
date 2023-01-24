@@ -1,6 +1,6 @@
-# Python KT
+# Python KT - Day 1
 
-## Fundamentals - 1/2
+## Fundamentals
 
 1. What is Python
 2. Usage of Python
@@ -21,8 +21,7 @@
 ## Practice
 
 1. Write a program which takes 3 number from user and print them in ascending order. (Don't use any inbuilt method).
-
-Example
+<br>Example:
 ```python
 # input
 
@@ -34,10 +33,18 @@ input3 = 7
 # 1
 # 2
 # 7
+
+# Hint:
+# Define 3 variables largest, smallest and middle
+# Take every value and compare with the other value
+
+# Ex.Check if input1 is the largest number
+# if input1 > input2 and input1 > input3:
+#   largest = input1
+
 ```
 2. Write a program which takes 2 inputs as number, and print initial 10 numbers only.
-
-Example
+<br>Example:
 ```python
 # input
 
