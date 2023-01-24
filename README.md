@@ -1,29 +1,74 @@
-# Python KT
+# Python KT - Day 2
+
+## Day 1 summary
+
+1. What is Python?
+2. Installation and setup
+   - Download Python from btondemand
+   - Check if Python has been installed
+   - Write a sample script
+   - Run using command line
+   - Install PyCharm
+3. Variable
+4. Data types `string` `int` `boolean`
+5. Conditional statements `if`
+6. Loops `for` using `range` method
+
 
 ## Python specific concepts
 
-1. Data structures - List, Dict, Tupple
-2. CRUD on data structures
-3. Looping techniques
-4. Error handling
-5. OOPs
-6. RegEx
-7. Custom modules/packaging
-8. Virtual environment
-9. Package management - pip
-10. Generators (For large file parsing)
-11. Run time argument
-12. Error handling
-13. Logging
-14. Execution of shell script from Python vice versa.
+- Data structures - List, Dict, Tupple
+- CRUD on data structures
+- Error handling
+- OOPs
+- RegEx
+- I/O Operations
+- Package management - pip
+- Run time argument
+- Execution of shell script from Python.
 
 ## Practice
 
-1. Create a Stack class and add methods to add, remove and find.
-2. If user tries to add more than 5 values in the Stack class, then raise a `ValueError`.
-3. Create a `data.csv` file with 5 rows with id column with alphanumeric values. Print the rows with generators.
-4. While parsing the above `data.csv` verify the id is alphanumeric only.
+1. Create a class and add methods to add, remove and find using `list` data type.
+<br>Example:
+```python
+class Stack:
+    def add():
+        # Your code
+    
+    def show():
+        # Your code
 
+stack = Stack()
+stack.add(2)
+stack.add(5)
+
+stack.show()
+# Output should be: 2, 5
+```
+2. If user tries to add more than 5 values in the Stack class, then raise a `ValueError`.
+<br>Example:
+```python
+class Stack:
+    def add():
+        # Your code
+    
+    def show():
+        # Your code
+
+stack = Stack()
+stack.add(2)
+stack.add(5)
+stack.add(6)
+stack.add(7)
+stack.add(8)
+
+stack.add(9)
+# Output should be:
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ValueError
+```
 ## Resources to learn 📚
 
 1. [Python's official site (Recommended)](https://docs.python.org/3/library/index.html)
