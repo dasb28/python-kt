@@ -62,7 +62,11 @@ input2 = 15
 # 8
 # 9
 # 10
+
+# Hint
+# Use `range` method and count everytime a loop runs
 ```
+
 
 ## Resources to learn 📚
 
