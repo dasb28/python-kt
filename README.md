@@ -21,11 +21,9 @@
 - CRUD on data structures
 - Error handling
 - OOPs
-- RegEx
 - I/O Operations
 - Package management - pip
 - Run time argument
-- Execution of shell script from Python.
 
 ## Practice
 
