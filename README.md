@@ -1,4 +1,11 @@
-# Python KT
+# Python KT - Day 3
+
+## Day 2 summary
+
+1. Data structures - List, Tupple and Dictionary
+2. Error handling
+3. OOP
+4. I/O operations
 
 ## Common built in libraries
 
