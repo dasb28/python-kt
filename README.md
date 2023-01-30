@@ -10,10 +10,19 @@
 ## Common built in libraries
 
 1. os
+   - `getcwd`
+   - `chdir`
+   - `access`
+   - `listdir`
+   - `mkdir`
 2. sys
+   - `argv`
+   - `exit`
 3. shutil
-4. subprocess
-5. logging
+   - `copytree`
+   - `copy`
+   - `copy2`
+4. logging
 
 ## Practice
 
