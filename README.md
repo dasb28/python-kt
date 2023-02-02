@@ -26,9 +26,8 @@
 
 ## Practice
 
-1. Write a shell script which create a folder and creates 3 files and execute with Python.
-2. List the files of the folder using Python.
-3. Log the steps into a file using logger package in python.
+1. List the files of the folder using Python.
+2. Log the steps into a file using logger package in python.
 
 ## Resources to learn 📚
 
