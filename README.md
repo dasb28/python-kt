@@ -43,7 +43,6 @@
 1. Custom modules/packaging
 2. Virtual environment
 3. Package management - pip
-4. Generators (For large file parsing)
 
 
 ## Day 5
